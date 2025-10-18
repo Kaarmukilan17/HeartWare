@@ -513,3 +513,20 @@ pip install -r requirements.txt
 ## 7. Test Results
 
 Detailed test logs and summaries are available [➜ test_logs](test_logs).
+
+
+
+
+##  Main Contributors
+
+<a href="https://github.com/Kaarmukilan17">
+  <img src="https://avatars.githubusercontent.com/Kaarmukilan17" width="100px;" alt="Kaarmukilan17"/>
+  <br /><sub><b>@Kaarmukilan17</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AbisekSasikumar">
+  <img src="https://avatars.githubusercontent.com/AbisekSasikumar" width="100px;" alt="AbisekSasikumar"/>
+  <br /><sub><b>@AbisekSasikumar</b></sub>
+</a>
+
+Dhakshana Bala S
