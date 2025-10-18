@@ -515,18 +515,18 @@ pip install -r requirements.txt
 Detailed test logs and summaries are available [➜ test_logs](test_logs).
 
 
+## Main Contributors
 
-
-##  Main Contributors
-
-<a href="https://github.com/Kaarmukilan17">
-  <img src="https://avatars.githubusercontent.com/Kaarmukilan17" width="100px;" alt="Kaarmukilan17"/>
-  <br /><sub><b>@Kaarmukilan17</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AbisekSasikumar">
-  <img src="https://avatars.githubusercontent.com/AbisekSasikumar" width="100px;" alt="AbisekSasikumar"/>
-  <br /><sub><b>@AbisekSasikumar</b></sub>
-</a>
-
-Dhakshana Bala S
+<p align="center">
+  <a href="https://github.com/Kaarmukilan17">
+    <img src="https://avatars.githubusercontent.com/Kaarmukilan17" width="100px" style="border-radius:50%;" alt="Kaarmukilan17"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AbisekSasikumar">
+    <img src="https://avatars.githubusercontent.com/AbisekSasikumar" width="100px" style="border-radius:50%;" alt="AbisekSasikumar"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://ui-avatars.com/api/?name=Dhakshana+Bala+S&background=random&size=100" width="100px" style="border-radius:50%;" alt="Dhakshana Bala S"/>
+  </span>
+</p>
