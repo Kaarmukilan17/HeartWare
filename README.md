@@ -49,29 +49,42 @@ A complete cyber-physical intelligent health monitoring platform.
 
 # 1. System Architecture
 
-### System Architecture Diagram
+<details>
+<summary><strong>(Click to Expand)</strong></summary>
 
+<br>
+
+### System Architecture Diagram
 ![System Architecture](assets/image004.jpg)
 
-### System Flow Diagram
+---
 
+### System Flow Diagram
 ![System Flow](assets/image005.jpg)
+
+</details>
 
 ---
 
 # 2. Hardware Overview
+<details>
+<summary><strong>(Click to Expand)</strong></summary>
+<br>
 
 ### Sensor Placement Layout
-
 ![Sensor Placement](assets/image001.jpg)
 
-### Perfboard / PCB Front & Back
+---
 
+### Perfboard / PCB Front & Back
 ![Perfboard Front and Back](assets/image002.jpg)
 
-### Internal View (Sensor Mounting)
+---
 
+### Internal View (Sensor Mounting)
 ![Internal View](assets/image003.jpg)
+
+---
 
 ### Hardware Components Used
 
@@ -84,6 +97,8 @@ A complete cyber-physical intelligent health monitoring platform.
 * BMP280
 * LCD (I2C)
 * Buzzer, battery, wiring
+
+</details>
 
 ---
 
@@ -120,60 +135,80 @@ The system integrates multiple ML pipelines:
 ---
 
 # 5. GUI, Cloud, and Dashboard
+<details>
+<summary><strong> (Click to Expand)</strong></summary>
+
+<br>
 
 ### Python Monitoring Dashboard
-
 ![GUI Dashboard](assets/image007.jpg)
 
-### ThingSpeak Cloud
+---
 
+### ThingSpeak Cloud
 ![ThingSpeak](assets/image011.jpg)
 
-### Telegram Alerts
+---
 
+### Telegram Alerts
 ![Telegram Alerts](assets/image010.jpg)
+
+</details>
 
 ---
 
 # 6. Test Results and Validation
 
 The system was tested for 24-hour stability, environmental drift, fall detection, and signal quality.
+<details>
+<summary><strong>Test Results (Click to Expand)</strong></summary>
+
+<br>
 
 ### 24-Hour Test
-
 ![24hr Test](assets/image009.gif)
 
-### Temperature Stability
+---
 
+### Temperature Stability
 ![Temperature Graph](assets/image014.jpg)
 
-### Air Quality Analysis
+---
 
+### Air Quality Analysis
 ![AQ Graph](assets/image015.jpg)
 
-### Drop Test
+---
 
+### Drop Test
 ![Drop Test](assets/image020.jpg)
 
-### Heart Rate and SpO2 Trends
+---
 
-![HR SpO2](assets/image029.jpg)
+### Heart Rate and SpO₂ Trends
+![HR SpO₂](assets/image029.jpg)
+
+---
 
 ### Fast Swing Test
-
 ![Fast Swing](assets/image031.gif)
 
-### Slow Swing Test
+---
 
+### Slow Swing Test
 ![Slow Swing](assets/image035.gif)
 
-### ECG Signal Quality
+---
 
+### ECG Signal Quality
 ![ECG Graph](assets/image038.gif)
 
-### Correlation Analysis
+---
 
+### Correlation Analysis
 ![Correlation Graph](assets/image053.jpg)
+
+</details>
 
 ---
 
@@ -213,7 +248,7 @@ add updated sooon
 add updated soon.
 ```
 
-# 11. Repository Structure (Recommended)
+# 11. Repository Structure (PEnding**)
 
 ```
 SensoHealth/
